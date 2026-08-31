@@ -8,7 +8,7 @@ export const personalInfo: PersonalInfo = {
   location: 'Vadodara, India',
   phone: '+91 8309183938',
   email: 'chanupaidi123@gmail.com',
-  linkedinUrl: 'https://linkedin.com/in/placeholder', // Editable placeholder
+  linkedinUrl: 'https://linkedin.com/in/chanukya-paidi/', // Editable placeholder
   githubUrl: 'https://github.com/chanukyapaidi',       // Editable placeholder
   resumeUrl: '/resume.pdf',
   degree: 'Bachelor of Technology in Computer Science',
