@@ -102,7 +102,7 @@ npm run build
 - **Role**: Aspiring Software Development Engineer
 - **Email**: [paidichanukya1028@gmail.com](mailto:paidichanukya1028@gmail.com)
 - **GitHub**: [github.com/chanukyapaidi](https://github.com/chanukyapaidi)
-- **LinkedIn**: [linkedin.com/in/paidi-chanukya-a5214b28a](https://linkedin.com/in/paidi-chanukya-a5214b28a)
+- **LinkedIn**: [https://www.linkedin.com/in/chanukya-paidi/](https://www.linkedin.com/in/chanukya-paidi/)
 
 ---
 
